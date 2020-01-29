@@ -1,4 +1,4 @@
-# modelling-depression-recurrence
+# Modelling depression recurrence from electronic health records
 
 These files comprise the report (dissertation) and supporting documents for my MSc individual project. 
 
