@@ -1,4 +1,4 @@
-# msc-dissertation
+# modelling-depression-recurrence
 
 These files comprise the report (dissertation) and supporting documents for my MSc individual project. 
 
